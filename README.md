@@ -5,11 +5,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/estceo)](https://twitter.com/estceo)
 ![Email Badge](https://img.shields.io/badge/-estrela.carolina%40bol.com.br-brightgreen)
 
-:octocat:
+:octocat: Sobre mim
 
 :dog: adoro cães <br>
 :mortar_board: Formada em Sistemas de Informação <br>
 :green_book: Gosto de ler livros sobre os mais variados tipos, os preferidos são os de Terror :ghost: <br>
+
 
 ### 
 
