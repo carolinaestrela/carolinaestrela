@@ -1,21 +1,12 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **carolinaestrela/carolinaestrela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-###![Carolina GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinaestrela&show_icons=true)
+![Carolina GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinaestrela&show_icons=true)
 
 <a target="_blank" href="https://https://www.linkedin.com/in/carolina-estrela/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-
-- 🔭 I’m currently working on Twilio 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
