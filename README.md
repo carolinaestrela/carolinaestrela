@@ -1,12 +1,6 @@
 ### Olá 👋
 
-<!--
-**carolinaestrela/carolinaestrela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carolinaestrela)](https://github.com/carolinaestrela)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-estrela/)](https://www.linkedin.com/in/carolina-estrela/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/estceo)](https://twitter.com/estceo)
 
-![Carolina GitHub Stats](https://github-readme-stats.vercel.app/api?username=carolinaestrela&show_icons=true)
-
-<a target="_blank" href="https://https://www.linkedin.com/in/carolina-estrela/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
--->
