@@ -7,10 +7,9 @@
 
 :octocat: Sobre mim
 
-:dog: adoro cães <br>
 :mortar_board: Formada em Sistemas de Informação <br>
+:dog: adoro cães <br>
 :green_book: Gosto de ler livros sobre os mais variados tipos, os preferidos são os de Terror :ghost: <br>
-
 
 ### 
 
