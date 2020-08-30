@@ -1,8 +1,8 @@
 ### Olá 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carolinaestrela)](https://github.com/carolinaestrela)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-estrela/)](https://www.linkedin.com/in/carolina-estrela/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/estceo)](https://twitter.com/estceo)
+[![Github Badge](https://img.shields.io/badge/https://github.com/carolinaestrela)](https://github.com/carolinaestrela)
+[![Linkedin Badge](https://img.shields.io/badge/https://www.linkedin.com/in/carolina-estrela/)](https://www.linkedin.com/in/carolina-estrela/)
+[![Twitter Badge](https://img.shields.io/badge/https://twitter.com/estceo)](https://twitter.com/estceo)
 ![Email Badge](https://img.shields.io/badge/-estrela.carolina%40bol.com.br-brightgreen)
 
 ### 
