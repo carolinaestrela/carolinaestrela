@@ -10,6 +10,8 @@
 :mortar_board: Formada em Sistemas de Informação <br>
 :dog: adoro cães <br>
 :green_book: Gosto de ler livros sobre os mais variados tipos, os preferidos são os de Terror :ghost: <br>
+:penguin: <a href="https://medium.com/reprogramabr/usando-o-curl-para-fazer-requisi%C3%A7%C3%B5es-na-api-ef230a2b0cb8"> Usando o Curl </a> <br>
+:earth_americas: <a href="https://medium.com/@estrela.carolina/using-curl-for-make-request-api-af249a8e8f76">Using Curl</a>
 
 ### 
 
