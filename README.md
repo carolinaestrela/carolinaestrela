@@ -1,9 +1,10 @@
 ### Olá 👋
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carolinaestrela)](https://github.com/carolinaestrela)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-estrela/)](https://www.linkedin.com/in/carolina-estrela/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/estceo)](https://twitter.com/estceo)
-![Email Badge](https://img.shields.io/badge/-estrela.carolina%40bol.com.br-brightgreen)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/carolinaestrela)](https://github.com/carolinaestrela)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/carolina-estrela/)](https://www.linkedin.com/in/carolina-estrela/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/estceo)](https://twitter.com/estceo)
+[![Linux Badge](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
+<div>
  <a href="https://github.com/carolinaestrela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinaestrela&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinaestrela&layout=compact&langs_count=7&theme=dark"/>
